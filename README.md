@@ -54,4 +54,4 @@ Achieved loss = 0.2106.
 Contact
 
 For any queries or collaboration opportunities, feel free to reach out:
-📧 saikushalthogaru@gmail.com
+📧 bharathsiripurapu21621@gmail.com
